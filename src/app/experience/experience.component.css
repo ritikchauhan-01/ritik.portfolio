@@ -1,0 +1,50 @@
+#experience{
+  align-items: center;
+  justify-content: center;
+  margin: 50px 0px 20px 0px;
+  /* border: 1px solid black; */
+  min-width: 650px;
+  position: relative;
+  padding: 0;
+  display: inline-block;
+  padding-top: 20px;
+}
+
+p{
+  color: red;
+  font-size: 40px;
+  font-weight: 800;
+  margin-left: 100px;
+}
+
+hr{
+  margin-left:100px;
+  margin-right: 25px;
+}
+
+.first{
+  margin: 20px 20px 0px 110px;
+  align-items: start;
+  word-wrap: break-word;
+  justify-content: center;
+  /* border: 1px solid black; */
+  padding: 30px 15px 15px 15px;
+}
+
+.second{
+  margin: 10px 20px 60px 110px;
+  align-items: start;
+  word-wrap: break-word;
+  justify-content: center;
+  /* border: 1px solid black; */
+  padding: 30px 15px 15px 15px;
+}
+
+h3{
+  padding-bottom:10px
+}
+
+li{
+  font-size: 18px;
+  padding: 3px;
+}

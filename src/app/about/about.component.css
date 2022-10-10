@@ -1,0 +1,63 @@
+#about{
+  position: relative;
+  padding: 0;
+  display: flex;
+}
+
+.me{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img{
+  height:400px;
+  width:658px;
+  object-fit: contain;
+  position: relative;
+  /* border: 1px black solid; */
+}
+
+.info{
+  padding-left:20px;
+  height: 400px;
+  padding-top: 50px;
+  padding-right: 15px;
+  /* border: 1px black solid; */
+  background-color: rgb(245, 249, 250);
+}
+
+ul{
+  padding: 20px;
+}
+
+ul a{
+  margin:12px;
+  word-wrap: break-word;
+  
+}
+
+a{
+  padding:5px;
+  display: inline-flex;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(233, 121, 16);
+  border-radius: 5px;
+}
+
+.button{
+  padding-left:20px;
+}
+
+.submit{
+  background-color: rgb(226, 148, 32);
+  color:black;
+  padding:10px;
+  border-radius: 35px;
+  border: 1px solid rgb(161, 154, 154);
+  opacity: 0.8;
+  margin-bottom: 15px;
+}
+
+.submit:hover{
+  opacity: 1;
+}

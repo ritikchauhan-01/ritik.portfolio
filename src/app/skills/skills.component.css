@@ -1,0 +1,73 @@
+.develop{
+  justify-content: center;
+  margin-top: 70px;
+}
+
+.start{
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cards{
+  display: flex;
+  margin-top: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+  min-width: 650px;
+}
+
+
+.ui{
+  min-width: 250px;
+  word-wrap: break-word;
+  align-items: start;
+  justify-content: center;
+  margin: 20px 0px 60px 30px;
+  border: 1px solid black;
+  padding: 30px 15px 15px 15px;
+  box-shadow: 1rem 1rem 1rem #000;
+}
+
+.web{
+  min-width: 250px;
+  margin: 20px 0px 60px 30px;
+  align-items: start;
+  word-wrap: break-word;
+  justify-content: center;
+  border: 1px solid black;
+  padding: 30px 15px 15px 15px;
+  box-shadow: 1rem 1rem 1rem #000;
+}
+
+.open-source{
+  min-width: 250px;
+  margin: 20px 0px 60px 30px;
+  align-items: start;
+  word-wrap: break-word;
+  justify-content: center;
+  border: 1px solid black;
+  padding: 30px 15px 15px 15px;
+  box-shadow: 1rem 1rem 1rem #000;
+}
+
+
+
+.ui i{
+  margin-bottom: 10px;
+  font-size: 40px;
+  color: rgb(236, 76, 236);
+}
+
+.web i{
+  margin-bottom: 10px;
+  font-size: 40px;
+  color: rgb(82, 224, 53);
+}
+
+.open-source i{
+  margin-bottom: 10px;
+  font-size: 40px;
+  color: rgb(252, 149, 14);
+}

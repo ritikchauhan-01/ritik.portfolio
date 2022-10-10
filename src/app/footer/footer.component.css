@@ -1,0 +1,15 @@
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px 30px;
+}
+
+ul a{
+  margin-right: 10px;
+}
+
+a{
+  font-size: 18px;
+  cursor: pointer;
+}
